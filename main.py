@@ -8,4 +8,4 @@ st.write("You can use Streamlit to create interactive web apps easily.")
 language = st.selectbox("Choose a programming languages:", ["C++", "Java", "Python"])
 
 
-st.write(f"You selected {language}. It's a flavorful blend of spices and tea.") 
+st.write(f"You selected {language}. It's a flavorful blend of spices and tea.")
